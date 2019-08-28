@@ -17,7 +17,7 @@ import (
 
 	"github.com/hashicorp/errwrap"
 	cleanhttp "github.com/hashicorp/go-cleanhttp"
-	retryablehttp "github.com/hashicorp/go-retryablehttp"
+	retryablehttp "github.com/ahmeduddin1132/go-retryablehttp"
 	rootcerts "github.com/hashicorp/go-rootcerts"
 	"github.com/hashicorp/vault/sdk/helper/consts"
 	"github.com/hashicorp/vault/sdk/helper/parseutil"
